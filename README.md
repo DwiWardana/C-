@@ -16,7 +16,6 @@ $ `chmod +x ./make`
 $ `./twitx`
 
 ### Contac Me:
-email: `mrxy@parsect.com`
 
 twitter: `https:twitter.com/MrXY404`
 
